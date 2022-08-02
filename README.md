@@ -1,6 +1,16 @@
 <h1 align="center">Hey, I'm Dominik!</h1>
 <h3 align="center">A full-stack developer currently located in Brno, Czech Republic.</h3>
 
+- 🌱 I’m currently learning **Next.js**
+
+- 📝 I'm in process of starting a blog at [https://www.djds.sk/blog](https://www.djds.sk/blog)
+
+- 💬 Ask me about **React, Next.js, Laravel, .NET, Node.js**
+
+- 📫 You can reach me at **jurigadominik@gmail.com**
+
+- ⚡ Fun fact **I enjoy mechanical keyboards.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dominikjuriga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominikjuriga" height="30" width="40" /></a>
